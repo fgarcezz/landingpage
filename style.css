@@ -36,10 +36,11 @@ body{
     line-height: 20px;
     max-width: 414px;
     font-size: 20px;
+    text-shadow: black 1.5px 1px 0.5px;
 }img{
     width: 630px;
     margin-left: 90px;
-    margin-top: 38.5    px;
+    margin-top: 38.5px;
 }a:hover{
     color: blueviolet;
     transition: 0.3s all;
